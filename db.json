@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id":1,
+            "nome":"Megami Tensei",
+            "descricao":"Sempre há uma escolha",
+            "cor":"#cbd1ff"
+        },
+        {
+            "id":2,
+            "nome":"Japanese Games",
+            "descricao":"Sempre há um sol nascente",
+            "cor":"#cbd1ff"
+        }
+    ]
+}
